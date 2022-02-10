@@ -16,3 +16,8 @@ In this project, I was able to:
 ### Evaluator Results
 
 ![Evaluator Results](./trybe-results-docker.png)
+
+
+#### Disclaimer
+
+This was an assignment developed by [Trybe](https://www.betrybe.com) in order to prove my skills using Docker.
